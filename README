@@ -1,0 +1,14 @@
+## README ##
+8-31-19
+
+This program allows a user to choose an image from a drop down menu and then lets them add top and bottom text like an early 2008 meme. The user can also choose the color of text and they can always switch back to the "instructions" image in case they forget how to properly work the program.
+
+Files Included:
+
+- PersonalProject.java
+
+- images Folder (with meme images)
+
+- README
+
+
