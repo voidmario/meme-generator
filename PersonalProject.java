@@ -154,7 +154,7 @@ public class PersonalProject extends JFrame {
 					else {
 						topTextLabel.setForeground(Color.PINK);
 					}
-					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 265);
+					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 240);
 					
 					
 					bottomTextLabel.setText(bottonTextTextField.getText());
@@ -203,7 +203,7 @@ public class PersonalProject extends JFrame {
 					else {
 						topTextLabel.setForeground(Color.PINK);
 					}
-					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 265);
+					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 240);
 					
 					
 					bottomTextLabel.setText(bottonTextTextField.getText());
@@ -248,7 +248,7 @@ public class PersonalProject extends JFrame {
 					else {
 						topTextLabel.setForeground(Color.PINK);
 					}
-					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 265);
+					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 240);
 					
 					
 					bottomTextLabel.setText(bottonTextTextField.getText());
@@ -291,7 +291,7 @@ public class PersonalProject extends JFrame {
 					else {
 						topTextLabel.setForeground(Color.PINK);
 					}
-					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 265);
+					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 240);
 					
 					
 					bottomTextLabel.setText(bottonTextTextField.getText());
@@ -334,7 +334,7 @@ public class PersonalProject extends JFrame {
 					else {
 						topTextLabel.setForeground(Color.PINK);
 					}
-					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 265);
+					topTextLabel.setLocation(450 - topTextLabel.getWidth()/2, 240);
 					
 					
 					bottomTextLabel.setText(bottonTextTextField.getText());
